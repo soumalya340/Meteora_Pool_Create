@@ -1,2 +1,13 @@
 # Meteora_Pool_Create
 Meteora Config and Pool Creation
+
+# Essential Parameters
+
+Transaction: https://solscan.io/tx/E51qqxxj7vF5RhkvsiMfCTJDoH7oU9YLPxjemMjpTZB81HamYJoUMehADJDYMLL34pCtKZfGMYafPQkCshjiVEU
+
+Config address: 9t8ESgLRyFroJ75Agom3azM9aj84Q1h1qqN7zVvuv3pg
+
+
+Using config: 9t8ESgLRyFroJ75Agom3azM9aj84Q1h1qqN7zVvuv3pg
+Generated base mint: 6TLTrUcnuKdfPYNJ14U12V9W376sFiBXqMEUmPaP2hNs
+Pool created: https://solscan.io/tx/5vB6ScN5UfEogMdPbHxekpK5v9GwnSkuRAbYzAaWNFYyJpPSAEVZy5UMTHeS3shP27UGb7XYLZ5QBKEbpqYCYz3g?cluster=devnet
